@@ -1,0 +1,5 @@
+{
+    "diffEditor.diffAlgorithm": "smart",
+    "editor.formatOnSave": false,
+    "dart.enableSdkFormatter": false
+}
